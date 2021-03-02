@@ -1,0 +1,25 @@
+.banniere nav {
+    text-align: center;
+    background-color: rgb(24, 9, 9);
+    font-size:25px;
+}
+
+.banniere span{
+    justify-content:space-between;
+}
+
+
+section.top-page {
+    background: url('imageio.jpg');
+    background-size: cover;
+    min-height: 70vh;
+}
+
+.titre{
+    color: rgb(211, 236, 236);
+    font-family:Georgia;
+    line-height: 100px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px dotted static;
+}
